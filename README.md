@@ -39,17 +39,48 @@ looking_for: Remote or on-site roles in product, project management or developme
 
 ---
 
-## 🚀 Featured project
+## 🚀 Featured projects
 
 <table>
   <tr>
-    <td>
-      <h3><a href="https://github.com/hoffman1938/bimmercode">bimmercode</a></h3>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gtsulaia09/bimmercode">bimmercode</a></h3>
       Multilingual BMW diagnostic trouble code (DTC) database with detailed descriptions, repair guidance and an AI-powered assistant.
       <br/><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/AI%20assistant-8b5cf6?style=flat-square" />
       <img src="https://img.shields.io/badge/3%20languages-0ea5e9?style=flat-square" />
+      <br/><br/>
+      🌐 <a href="https://bimmercodes.net/">bimmercodes.net</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gtsulaia09/navWeather">wayther</a></h3>
+      Navigation app that tells you the weather you will actually meet on your road: where you will be, when, and what the forecast is there. Built on open data and runs on the device, with no API keys or paid services.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gtsulaia09/ecommerce">Outlet Marketplace</a></h3>
+      Outlet e-commerce platform with time-limited brand campaigns, a concurrency-safe 20-minute stock reservation, a full storefront and a role-based admin panel. Two backends: NestJS + PostgreSQL locally, Cloudflare Workers + D1 in the demo.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+      <br/><br/>
+      🌐 <a href="https://ecommerce-135.pages.dev/">Live demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gtsulaia09/alfaVIN">alfaVIN</a></h3>
+      Alfa Romeo VIN decoder: turns a VIN into a full equipment report with engine, transmission, colours, factory options and original MSRP, parsed from official window-sticker data.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -100,8 +131,8 @@ looking_for: Remote or on-site roles in product, project management or developme
 ## 📊 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hoffman1938&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoffman1938&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gtsulaia09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtsulaia09&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

@@ -51,7 +51,7 @@ looking_for: Remote or on-site roles in product, project management or developme
       <img src="https://img.shields.io/badge/AI%20assistant-8b5cf6?style=flat-square" />
       <img src="https://img.shields.io/badge/3%20languages-0ea5e9?style=flat-square" />
       <br/><br/>
-      🌐 <a href="https://bimmercodes.net/">bimmercodes.net</a>
+      🌐 <a href="https://gtsulaia09.github.io/bimmercode/">Live demo</a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/gtsulaia09/navWeather">wayther</a></h3>
@@ -60,6 +60,8 @@ looking_for: Remote or on-site roles in product, project management or developme
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white" />
       <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+      <br/><br/>
+      🌐 <a href="https://gtsulaia09.github.io/navWeather/">Live demo</a>
     </td>
   </tr>
   <tr>
@@ -81,6 +83,8 @@ looking_for: Remote or on-site roles in product, project management or developme
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <br/><br/>
+      🌐 <a href="https://gtsulaia09.github.io/alfaVIN/">Live demo</a>
     </td>
   </tr>
 </table>
